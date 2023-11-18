@@ -35,6 +35,6 @@ Entramos al contenedor de kafka , y poteriormnete creamos el topic.
 
 Se ejecuta los mains de producer.py y consumer.py 
 
-``` python3 consumer.py  ```
+``` python3 main_consumer.py  ```
 
-``` python3 producer.py ```
+``` python3 main.py ```
