@@ -1,5 +1,5 @@
 # Workshop3
-Este proyecto se centra en realizar transformaciones relevantes en cinco archivos CSV correspondientes a diferentes años (2015, 2016, 2017, 2018, 2019). El objetivo principal es aplicar un modelo de regresión lineal en Python para predecir la columna "Happiness Score" basándose en los datos históricos de estos archivos CSV. Posteriormente, se guarda la predicción obtenida junto con los datos originales en una base de datos PostgreSQL.
+Este Workshop se centra en realizar transformaciones relevantes en cinco archivos CSV correspondientes a diferentes años (2015, 2016, 2017, 2018, 2019). El objetivo principal es aplicar un modelo de regresión lineal en Python para predecir la columna "Happiness Score" basándose en los datos históricos de estos archivos CSV. Posteriormente, se guarda la predicción obtenida junto con los datos originales en una base de datos PostgreSQL.
 
 ## Tecnologías Utilizadas
 Docker: Para la gestión y despliegue del entorno de desarrollo.
