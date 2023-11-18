@@ -3,11 +3,17 @@ Este proyecto se centra en realizar transformaciones relevantes en cinco archivo
 
 ## Tecnologías Utilizadas
 Docker: Para la gestión y despliegue del entorno de desarrollo.
+
 Python: Lenguaje de programación principal utilizado en el proyecto.
+
 Joblib: Para guardar y cargar modelos de Python.
+
 Jupyter Notebook: Utilizado para el desarrollo interactivo y documentación.
+
 Kafka: Posible uso para la transmisión de datos en tiempo real.
+
 Scikit-Learn: Biblioteca de aprendizaje automático utilizada para la implementación del modelo de regresión lineal.
+
 PostgreSQL: Sistema de gestión de bases de datos relacional utilizado para almacenar los datos originales y las predicciones.
 
 ## Pasos Realizados
